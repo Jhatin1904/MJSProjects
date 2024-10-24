@@ -85,4 +85,3 @@ nltk.download('wordnet')
 - Websites with strict anti-bot measures might block scraping attempts, even with `headers` in place.
 ``` 
 
-Feel free to adjust any details as per your specific project!
