@@ -1,6 +1,4 @@
-Here’s a simple `README.md` file that fits your requirements:
 
-```markdown
 # Web Scraper and Topic Classification
 
 ## Overview
